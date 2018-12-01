@@ -31,7 +31,7 @@ whether in electronic or physical (e.g. printed) format.
 
 ## 3. Disclaimer
 
-a. The materials on our website are provided on an "as is" basic. We make no warranties,
+a. The materials on our website are provided on an "as is" basis. We make no warranties,
 expressed or implied, and hereby disclaim and negate all other warranties including, without
 limitation, the implied warranties of merchantability and fitness for a particular purpose.
 
