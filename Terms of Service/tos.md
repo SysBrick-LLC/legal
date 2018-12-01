@@ -1,4 +1,4 @@
-#SysBrick LLC Terms of Service
+# SysBrick LLC Terms of Service
 Last updated December 1, 2018
 
 ## 1. Terms
